@@ -1,0 +1,27 @@
+IM (Instant Messaging 即时通讯)
+
+XMPP(eXtensible Messaging and Presence Protocol 可扩展通讯和表示协议)
+
+环信即时通讯
+http://www.easemob.com/
+环信帐号: 
+1.org_admin: dearzqy/xzy123 企业id: 100000001
+2.app_admin: adminzqy/123321 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

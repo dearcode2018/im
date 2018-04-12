@@ -1,0 +1,29 @@
+smack
+
+openfire(服务端 + web管理端) + spark(PC客户端) + smack(应用程序支持)
+
+openfire: 部署好之后，可以通过web端来进行参数的设置以及管理
+spark: 安装到客户端之后，可以通过设置域名来进行映射
+smack: 可以通过代码程序来与openfire和spack客户端进行通讯，发送消息，基本设置等.
+
+smack 可以用来开发与即时通信用户交互的功能，在一个系统中可以将系统产生的业务消息实时传送
+给即时通信用户，openfire客户端或者spark客户端都会接收到相关消息.
+
+smack 是开源、易用的XMPP/Jabber客户端库，使用java与语言开发，由Jive Software开发.
+smack的缺点是API并非为大量并发用户设计，每个客户都要一个线程，占用的资源相对多.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
